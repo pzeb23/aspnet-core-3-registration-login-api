@@ -7,3 +7,5 @@ For documentation and instructions check out https://jasonwatmore.com/post/2019/
 # Personal development
 
 This project shall be developed further for personal use, as a training API for personal projects. I do not own any of the base code, however, further improvements and implementations of new services are considered mine. 
+
+The base project can be found uder the link above. 
